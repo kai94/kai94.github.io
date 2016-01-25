@@ -4,12 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm Kai, undergrad studying CS. I will write about the books I read and Machine Learning!
 
-### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](mailto:kenkenyy5__AT__gmail__dot__com)
