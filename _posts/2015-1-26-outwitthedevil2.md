@@ -39,10 +39,10 @@ ____
 ## 成功方程式＝((P+T)✕As✕Ac)+F
 
 P: 情熱(Passion)<br/>
-T: 才能(Talent)
-As: 人脈(Association)
-Ac: 行動(Action)
-F: 自分と自分の目標に対する強い信念(Faith)
+T: 才能(Talent)<br/>
+As: 人脈(Association)<br/>
+Ac: 行動(Action)<br/>
+F: 自分と自分の目標に対する強い信念(Faith)<br/>
 
 <br/>
 気になった人はアマゾンまたは最寄りの図書館まで：）
