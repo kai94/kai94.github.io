@@ -34,6 +34,8 @@ ____
 ## 祈り
 * 自分がすでに持っているものへの感謝の祈り：健康でいられること、家族や友人が自分に与えてくれるもの。
 
+![Believe]({{ site.url }}https://reachforthepower.files.wordpress.com/2013/07/20130712-013731.jpg)
+
 <br/>
 
 ## 成功方程式＝((P+T)✕As✕Ac)+F
