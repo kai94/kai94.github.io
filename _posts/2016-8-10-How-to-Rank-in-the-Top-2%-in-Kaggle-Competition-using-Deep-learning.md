@@ -5,6 +5,5 @@ The challenge in this competition was to categorize what the driver was doing in
 
 Examples of images.
 
-![an image alt text]({{ site.baseurl }}/images/img_195.jpg "an image title")
 
 
